@@ -1,0 +1,15 @@
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\obj\Debug\net6.0\refint\DIO.Series.dll
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
+C:\Users\luana\OneDrive\Documentos\C#aulas\ProjetoCadastro\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
